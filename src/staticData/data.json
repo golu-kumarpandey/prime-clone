@@ -1,0 +1,2228 @@
+{
+  "movies": {
+    "fantasy": [
+      {
+        "id": "fantasy1",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Elio-2025.webp",
+        "like": false,
+        "save": false,
+        "movieTitle": "Elio",
+        "duration": "1hr 45min",
+        "ratting": 8.3
+      },
+      {
+        "id": "fantasy2",
+        "category": "fantasy",
+        "like": false,
+        "save": false,
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-My-Year-as-the-ghoul-220020.webp",
+        "movieTitle": "Ghoul Year",
+        "duration": "2hr 0min",
+        "ratting": 7.8
+      },
+      {
+        "id": "fantasy3",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-How-to-Train-Dragon-2025.webp",
+        "movieTitle": "Train Dragon",
+        "duration": "1hr 55min",
+        "ratting": 8.6
+      },
+      {
+        "id": "fantasy4",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Snow-White-2025.webp",
+        "movieTitle": "Snow White",
+        "duration": "2hr 10min",
+        "ratting": 7.5
+      },
+      {
+        "id": "fantasy5",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Padakkalam-2025.webp",
+        "movieTitle": "Padakkalam",
+        "duration": "1hr 50min",
+        "ratting": 8.1
+      },
+      {
+        "id": "fantasy6",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Assassins-Guild-2024.webp",
+        "movieTitle": "Assassins Guild",
+        "duration": "2hr 15min",
+        "ratting": 7.7
+      },
+      {
+        "id": "fantasy7",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Fountain-of-Youth-2025.webp",
+        "movieTitle": "Youth Fountain",
+        "duration": "1hr 40min",
+        "ratting": 8.4
+      },
+      {
+        "id": "fantasy8",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Boy-the-mold-the-fox-and-the-horse-2022.webp",
+        "movieTitle": "Boy and Fox",
+        "duration": "2hr 20min",
+        "ratting": 7.3
+      },
+      {
+        "id": "fantasy9",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-A-Min-Craft-Movies-2025.webp",
+        "movieTitle": "Minecraft Movie",
+        "duration": "1hr 48min",
+        "ratting": 8.0
+      },
+      {
+        "id": "fantasy10",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Aghathiya-202225.webp",
+        "movieTitle": "Aghathiya",
+        "duration": "2hr 5min",
+        "ratting": 7.9
+      },
+      {
+        "id": "fantasy11",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Little-Marmaid-2024.webp",
+        "movieTitle": "Little Mermaid",
+        "duration": "1hr 35min",
+        "ratting": 8.2
+      },
+      {
+        "id": "fantasy12",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Peter-Pans-2025.webp",
+        "movieTitle": "Peter Pan",
+        "duration": "2hr 25min",
+        "ratting": 7.6
+      },
+      {
+        "id": "fantasy13",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Mickey-170-2025.webp",
+        "movieTitle": "Mickey 17",
+        "duration": "1hr 42min",
+        "ratting": 8.5
+      },
+      {
+        "id": "fantasy14",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Parthenope-2024.webp",
+        "movieTitle": "Parthenope",
+        "duration": "1hr 47min",
+        "ratting": 7.4
+      },
+      {
+        "id": "fantasy15",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Batman-Ninja-vs-Yakuza-League-2025.webp",
+        "movieTitle": "Batman Ninja",
+        "duration": "1hr 58min",
+        "ratting": 8.3
+      },
+      {
+        "id": "fantasy16",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Keepers-of-the-5-kingdoms-2024.webp",
+        "movieTitle": "Five Kingdoms",
+        "duration": "1hr 30min",
+        "ratting": 7.8
+      },
+      {
+        "id": "fantasy17",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Parthenope-2024.webp",
+        "movieTitle": "Parthenope Horror",
+        "duration": "1hr 53min",
+        "ratting": 8.1
+      },
+      {
+        "id": "fantasy18",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Nosferatu-2024.webp",
+        "movieTitle": "Nosferatu",
+        "duration": "1hr 46min",
+        "ratting": 7.5
+      },
+      {
+        "id": "fantasy19",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/The-Legend-of-Maula-jatt-2022.webp",
+        "movieTitle": "Maula Jatt",
+        "duration": "2hr 8min",
+        "ratting": 8.6
+      },
+      {
+        "id": "fantasy20",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Slaughterhouse-Rulez-2018.webp",
+        "movieTitle": "Slaughterhouse",
+        "duration": "1hr 37min",
+        "ratting": 7.9
+      },
+      {
+        "id": "fantasy21",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Sonic-the-Hedgehog-3-2024.webp",
+        "movieTitle": "Sonic 3",
+        "duration": "1hr 44min",
+        "ratting": 8.0
+      },
+      {
+        "id": "fantasy22",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Four-Kids-and-It-2020.webp",
+        "movieTitle": "Four Kids",
+        "duration": "2hr 12min",
+        "ratting": 7.7
+      },
+      {
+        "id": "fantasy23",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Snake-Skin-Beauty-2024.webp",
+        "movieTitle": "Snake Beauty",
+        "duration": "1hr 51min",
+        "ratting": 8.2
+      },
+      {
+        "id": "fantasy24",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Witch-Revenge-2024.webp",
+        "movieTitle": "Witch Revenge",
+        "duration": "1hr 39min",
+        "ratting": 7.6
+      },
+      {
+        "id": "fantasy25",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Cantervilla-Ghost-2023.webp",
+        "movieTitle": "Canterville Ghost",
+        "duration": "2hr 18min",
+        "ratting": 8.4
+      },
+      {
+        "id": "fantasy26",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/barroz-2024-hindi-dd51-webdl-1080p--720p--480p.webp",
+        "movieTitle": "Barroz",
+        "duration": "2hr 22min",
+        "ratting": 7.8
+      },
+      {
+        "id": "fantasy27",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Wicked-2024.webp",
+        "movieTitle": "Wicked",
+        "duration": "1hr 43min",
+        "ratting": 8.5
+      },
+      {
+        "id": "fantasy28",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Alice-In-WonderLand-2010.webp",
+        "movieTitle": "Wonderland",
+        "duration": "2hr 0min",
+        "ratting": 7.4
+      },
+      {
+        "id": "fantasy29",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Red-one-2024-2.webp",
+        "movieTitle": "Red One",
+        "duration": "1hr 49min",
+        "ratting": 8.3
+      },
+      {
+        "id": "fantasy30",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Dear-Santa-2024.webp",
+        "movieTitle": "Dear Santa",
+        "duration": "2hr 14min",
+        "ratting": 7.9
+      },
+      {
+        "id": "fantasy31",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Crow-2024.webp",
+        "movieTitle": "The Crow",
+        "duration": "1hr 56min",
+        "ratting": 8.0
+      },
+      {
+        "id": "fantasy32",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/kanguva-2024-hindi-hdts-720p-480p-1080p.webp",
+        "movieTitle": "Kanguva",
+        "duration": "2hr 11min",
+        "ratting": 7.6
+      },
+      {
+        "id": "fantasy33",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Medallion.2003.webp",
+        "movieTitle": "Medallion",
+        "duration": "1hr 43min",
+        "ratting": 8.2
+      },
+      {
+        "id": "fantasy34",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/mononoke-the-movie-the-phantom-in-the-rain-2024-hindi-dual-audio-hdrip-1080p-720p-480p.webp",
+        "movieTitle": "Mononoke",
+        "duration": "2hr 7min",
+        "ratting": 7.8
+      },
+      {
+        "id": "fantasy35",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/the-dark-tower-2017-hindi-dual-audio-720p-bluray-900mb.webp",
+        "movieTitle": "Dark Tower",
+        "duration": "2hr 16min",
+        "ratting": 8.4
+      }
+    ],
+    "sciFy": [
+      {
+        "id": "scify1",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Elio-2025.webp",
+        "movieTitle": "Elio",
+        "duration": "1hr 50min",
+        "ratting": 8.3
+      },
+      {
+        "id": "scify2",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-My-Year-as-the-ghoul-220020.webp",
+        "movieTitle": "Ghoul Year",
+        "duration": "2hr 5min",
+        "ratting": 7.8
+      },
+      {
+        "id": "scify3",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-How-to-Train-Dragon-2025.webp",
+        "movieTitle": "Train Dragon",
+        "duration": "1hr 45min",
+        "ratting": 8.6
+      },
+      {
+        "id": "scify4",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Snow-White-2025.webp",
+        "movieTitle": "Snow White",
+        "duration": "2hr 0min",
+        "ratting": 7.5
+      },
+      {
+        "id": "scify5",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Prince-of-Egypt-1998.webp",
+        "movieTitle": "Prince of Egypt",
+        "duration": "1hr 55min",
+        "ratting": 8.1
+      },
+      {
+        "id": "scify6",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Karate-Kid-Legend-22025.webp",
+        "movieTitle": "Karate Kid",
+        "duration": "2hr 15min",
+        "ratting": 7.7
+      },
+      {
+        "id": "scify7",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Extraordinary-Adventures-2010.webp",
+        "movieTitle": "Extraordinary",
+        "duration": "1hr 40min",
+        "ratting": 8.4
+      },
+      {
+        "id": "scify8",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Fountain-of-Youth-2025.webp",
+        "movieTitle": "Youth Fountain",
+        "duration": "2hr 20min",
+        "ratting": 7.3
+      },
+      {
+        "id": "scify9",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-War-2019.webp",
+        "movieTitle": "War",
+        "duration": "1hr 48min",
+        "ratting": 8.0
+      },
+      {
+        "id": "scify10",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Bloodshot-20200.webp",
+        "movieTitle": "Bloodshot",
+        "duration": "2hr 10min",
+        "ratting": 7.9
+      },
+      {
+        "id": "scify11",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-I-Am-Number-Four-2011.webp",
+        "movieTitle": "Number Four",
+        "duration": "1hr 35min",
+        "ratting": 8.2
+      },
+      {
+        "id": "scify12",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Territoriya-2015.webp",
+        "movieTitle": "Territoriya",
+        "duration": "2hr 25min",
+        "ratting": 7.6
+      },
+      {
+        "id": "scify13",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Mission-Impossible-The-F-R-2025.webp",
+        "movieTitle": "Mission Impossible",
+        "duration": "1hr 42min",
+        "ratting": 8.5
+      },
+      {
+        "id": "scify14",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Boy-the-mold-the-fox-and-the-horse-2022.webp",
+        "movieTitle": "Boy and Fox",
+        "duration": "1hr 47min",
+        "ratting": 7.4
+      },
+      {
+        "id": "scify15",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-A-Min-Craft-Movies-2025.webp",
+        "movieTitle": "Minecraft Movie",
+        "duration": "1hr 58min",
+        "ratting": 8.3
+      },
+      {
+        "id": "scify16",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Dog-Man-20225.webp",
+        "movieTitle": "Dog Man",
+        "duration": "1hr 30min",
+        "ratting": 7.8
+      },
+      {
+        "id": "scify17",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Dear-Eleanor-2016.webp",
+        "movieTitle": "Dear Eleanor",
+        "duration": "1hr 53min",
+        "ratting": 8.1
+      },
+      {
+        "id": "scify18",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Crayon-Shinchan-Our-Dinosaur-Siary-2024.webp",
+        "movieTitle": "Shinchan Dinosaur",
+        "duration": "1hr 46min",
+        "ratting": 7.5
+      },
+      {
+        "id": "scify19",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Odela-2-220225.webp",
+        "movieTitle": "Odela 2",
+        "duration": "2hr 8min",
+        "ratting": 8.6
+      },
+      {
+        "id": "scify20",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Thunderbolts-22025.webp",
+        "movieTitle": "Thunderbolts",
+        "duration": "1hr 37min",
+        "ratting": 7.9
+      },
+      {
+        "id": "scify21",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Aghathiya-202225.webp",
+        "movieTitle": "Aghathiya",
+        "duration": "1hr 44min",
+        "ratting": 8.0
+      },
+      {
+        "id": "scify22",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Bolt-From-The-Blue-2023.webp",
+        "movieTitle": "Bolt Blue",
+        "duration": "2hr 12min",
+        "ratting": 7.7
+      },
+      {
+        "id": "scify23",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Counterattack-2025.webp",
+        "movieTitle": "Counterattack",
+        "duration": "1hr 51min",
+        "ratting": 8.2
+      },
+      {
+        "id": "scify24",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Mickey-170-2025.webp",
+        "movieTitle": "Mickey 17",
+        "duration": "1hr 39min",
+        "ratting": 7.6
+      },
+      {
+        "id": "scify25",
+        "category": "romantic",
+        "image": "https://vegabras.tz/uploads/posts/covers/Poster-Mufasa-The-Lion-King-2024.webp",
+        "movieTitle": "Mufasa",
+        "duration": "2hr 18min",
+        "ratting": 8.4
+      },
+      {
+        "id": "scify26",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Badia-2025.webp",
+        "movieTitle": "Badia",
+        "duration": "2hr 22min",
+        "ratting": 7.8
+      },
+      {
+        "id": "scify27",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Electric-State-2025.webp",
+        "movieTitle": "Electric State",
+        "duration": "1hr 43min",
+        "ratting": 8.5
+      },
+      {
+        "id": "scify28",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Keepers-of-the-5-kingdoms-2024.webp",
+        "movieTitle": "Five Kingdoms",
+        "duration": "2hr 0min",
+        "ratting": 7.4
+      },
+      {
+        "id": "scify29",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Plankton-The-Movie-2025.webp",
+        "movieTitle": "Plankton",
+        "duration": "1hr 49min",
+        "ratting": 8.3
+      },
+      {
+        "id": "scify30",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/autumn-and-the-black-jaguar-2024-hindi-dual-audio-hdrip-480p-720p-1080p.webp",
+        "movieTitle": "Black Jaguar",
+        "duration": "2hr 14min",
+        "ratting": 7.9
+      },
+      {
+        "id": "scify31",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Count-of-Monte-Cristo-2024-2024.webp",
+        "movieTitle": "Monte Cristo",
+        "duration": "1hr 56min",
+        "ratting": 8.0
+      },
+      {
+        "id": "scify32",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Daku-Maharaaj-2025.webp",
+        "movieTitle": "Daku Maharaaj",
+        "duration": "2hr 11min",
+        "ratting": 7.6
+      },
+      {
+        "id": "scify33",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/gogol-viy-2018-hindi-dual-audio-hdrip-1080p-720p-480p.webp",
+        "movieTitle": "Gogol Viy",
+        "duration": "1hr 43min",
+        "ratting": 8.2
+      },
+      {
+        "id": "scify34",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Butchers-Crossing-2022.webp",
+        "movieTitle": "Butchers Crossing",
+        "duration": "2hr 7min",
+        "ratting": 7.8
+      },
+      {
+        "id": "scify35",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Sonic-the-Hedgehog-3-2024.webp",
+        "movieTitle": "Sonic 3",
+        "duration": "2hr 16min",
+        "ratting": 8.4
+      }
+    ],
+
+    "action": [
+      {
+        "id": "action1",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Robinhood-2025.webp",
+        "movieTitle": "Robinhood",
+        "duration": "1hr 50min",
+        "ratting": 8.3
+      },
+      {
+        "id": "action2",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/despicable-me-4-2024-telugu-camrip-1080p.webp",
+        "movieTitle": "Despicable Me 4",
+        "duration": "2hr 5min",
+        "ratting": 7.8
+      },
+      {
+        "id": "action3",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/kalki-2898--ad-2024-telugu-camrip-1080p.webp",
+        "movieTitle": "Kalki 2898",
+        "duration": "1hr 45min",
+        "ratting": 8.6
+      },
+      {
+        "id": "action4",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/maharaja-2024-telugu-camrip-640p.webp",
+        "movieTitle": "Maharaja",
+        "duration": "2hr 0min",
+        "ratting": 7.5
+      },
+      {
+        "id": "action5",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/bad-boys-ride-or-die-2024-telugu-camrip-1080p.webp",
+        "movieTitle": "Bad Boys",
+        "duration": "1hr 5min",
+        "ratting": 8.1
+      },
+      {
+        "id": "action6",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/furiosa-a-mad-max-saga-2024-telugu-camrip-1080p.webp",
+        "movieTitle": "Furiosa",
+        "duration": "2hr 15min",
+        "ratting": 7.7
+      },
+      {
+        "id": "action7",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/kingdom-of-the-planet-of-the-apes-2024-telugu-camrip-1080p.webp",
+        "movieTitle": "Planet of Apes",
+        "duration": "1hr 40min",
+        "ratting": 8.4
+      },
+      {
+        "id": "action8",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/baak-2024-telugu-camrip-1080p.webp",
+        "movieTitle": "Baak",
+        "duration": "2hr 20min",
+        "ratting": 7.3
+      },
+      {
+        "id": "action9",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/aa-okkati-adakku-2024-telugu-camrip-1080p.webp",
+        "movieTitle": "Okkati Adakku",
+        "duration": "1hr 48min",
+        "ratting": 8.0
+      },
+      {
+        "id": "action10",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Theppa.Samudram.2024.jpg",
+        "movieTitle": "Theppa Samudram",
+        "duration": "2hr 10min",
+        "ratting": 7.9
+      },
+      {
+        "id": "action11",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/rathnam-2024-camrip-telugu-1080p.webp",
+        "movieTitle": "Rathnam",
+        "duration": "1hr 35min",
+        "ratting": 8.2
+      },
+      {
+        "id": "action12",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/1Bharathanatyam2024.png",
+        "movieTitle": "Bharathanatyam",
+        "duration": "2hr 25min",
+        "ratting": 7.6
+      },
+      {
+        "id": "action13",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/1ddune2024.jpg",
+        "movieTitle": "Dune",
+        "duration": "1hr 42min",
+        "ratting": 8.5
+      },
+      {
+        "id": "action14",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/shanmukha-2025-telugu-camrip-720p--480p--1080p.webp",
+        "movieTitle": "Shanmukha",
+        "duration": "1hr 47min",
+        "ratting": 7.4
+      },
+      {
+        "id": "action15",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/thani-oruvan-2015-hindi-tamil-dubbed-hdrip-500mb.webp",
+        "movieTitle": "Thani Oruvan",
+        "duration": "1hr 58min",
+        "ratting": 8.3
+      },
+      {
+        "id": "action16",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/sachin-2017-movie-telugu-dubbed-tcrip-700mb.webp",
+        "movieTitle": "Sachin",
+        "duration": "1hr 30min",
+        "ratting": 7.8
+      },
+      {
+        "id": "action17",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/24-full-movie-hindi-dubbed-2016.webp",
+        "movieTitle": "24",
+        "duration": "1hr 53min",
+        "ratting": 8.1
+      },
+      {
+        "id": "action18",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/2023-04/medium/1682287653_maxresdefault.jpg",
+        "movieTitle": "Unknown Horror",
+        "duration": "1hr 46min",
+        "ratting": 7.5
+      },
+      {
+        "id": "action19",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/dharma-yogi-2016-dvdscr-telugu-full-download.webp",
+        "movieTitle": "Dharma Yogi",
+        "duration": "2hr 8min",
+        "ratting": 8.6
+      },
+      {
+        "id": "action20",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/majnu-2016-movie-download-telugu-full-hd-dvdrip.webp",
+        "movieTitle": "Majnu",
+        "duration": "1hr 37min",
+        "ratting": 7.9
+      },
+      {
+        "id": "action21",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Ace-202255.webp",
+        "movieTitle": "Ace",
+        "duration": "1hr 44min",
+        "ratting": 8.0
+      },
+      {
+        "id": "action22",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Thug-Life-2025.webp",
+        "movieTitle": "Thug Life",
+        "duration": "2hr 12min",
+        "ratting": 7.7
+      },
+      {
+        "id": "action23",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Jai-Gangaajal-2016.webp",
+        "movieTitle": "Jai Gangaajal",
+        "duration": "1hr 51min",
+        "ratting": 8.2
+      },
+      {
+        "id": "action24",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Six-Each-2025.webp",
+        "movieTitle": "Six Each",
+        "duration": "1hr 39min",
+        "ratting": 7.6
+      },
+      {
+        "id": "action25",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-30-Minutes-or-Less-2011.webp",
+        "movieTitle": "30 Minutes",
+        "duration": "2hr 18min",
+        "ratting": 8.4
+      },
+      {
+        "id": "action26",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Ballerina-20225.webp",
+        "movieTitle": "Ballerina",
+        "duration": "2hr 22min",
+        "ratting": 7.8
+      },
+      {
+        "id": "action27",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Blind-Spot-2025.webp",
+        "movieTitle": "Blind Spot",
+        "duration": "1hr 43min",
+        "ratting": 8.5
+      },
+      {
+        "id": "action28",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Deep-Cover-2025.webp",
+        "movieTitle": "Deep Cover",
+        "duration": "2hr 0min",
+        "ratting": 7.4
+      },
+      {
+        "id": "action29",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Mokshapatam-2025.webp",
+        "movieTitle": "Mokshapatam",
+        "duration": "1hr 49min",
+        "ratting": 8.3
+      },
+      {
+        "id": "action30",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Bloody-Marry-20222.webp",
+        "movieTitle": "Bloody Marry",
+        "duration": "2hr 14min",
+        "ratting": 7.9
+      },
+      {
+        "id": "action31",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-High-Force-2024.webp",
+        "movieTitle": "High Force",
+        "duration": "1hr 56min",
+        "ratting": 8.0
+      },
+      {
+        "id": "action32",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Accountant-2-2025.webp",
+        "movieTitle": "Accountant 2",
+        "duration": "2hr 11min",
+        "ratting": 7.6
+      },
+      {
+        "id": "action33",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Riff-Riff-2024.webp",
+        "movieTitle": "Riff Riff",
+        "duration": "1hr 43min",
+        "ratting": 8.2
+      },
+      {
+        "id": "action34",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Flight-Risk-2025.webp",
+        "movieTitle": "Flight Risk",
+        "duration": "2hr 7min",
+        "ratting": 7.8
+      },
+      {
+        "id": "action35",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Riff-Riff-2024.webp",
+        "movieTitle": "Riff Riff 2",
+        "duration": "2hr 16min",
+        "ratting": 8.4
+      }
+    ],
+
+    "horror": [
+      {
+        "id": "horror1",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Final-Destination-Bloodlines-20255.webp",
+        "movieTitle": "Bloodlines",
+        "duration": "1hr 50min",
+        "ratting": 8.3
+      },
+      {
+        "id": "horror2",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Subham-2025.webp",
+        "movieTitle": "Subham",
+        "duration": "2hr 5min",
+        "ratting": 7.8
+      },
+      {
+        "id": "horror3",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Heart-Eyes-2025.webp",
+        "movieTitle": "Heart Eyes",
+        "duration": "1hr 45min",
+        "ratting": 8.6
+      },
+      {
+        "id": "horror4",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Devil-Double-2025.webp",
+        "movieTitle": "Devil Double",
+        "duration": "2hr 0min",
+        "ratting": 7.5
+      },
+      {
+        "id": "horror5",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Sinners-220225.webp",
+        "movieTitle": "Sinners",
+        "duration": "1hr 55min",
+        "ratting": 8.1
+      },
+      {
+        "id": "horror6",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Kapkappii-2025.webp",
+        "movieTitle": "Kapkappii",
+        "duration": "2hr 15min",
+        "ratting": 7.7
+      },
+      {
+        "id": "horror7",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Until-Down-2925.webp",
+        "movieTitle": "Until Dawn",
+        "duration": "1hr 40min",
+        "ratting": 8.4
+      },
+      {
+        "id": "horror8",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Fear-Street-Prom-Queen-2025.webp",
+        "movieTitle": "Fear Street",
+        "duration": "2hr 20min",
+        "ratting": 7.3
+      },
+      {
+        "id": "horror9",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Bhotni-20225.webp",
+        "movieTitle": "The Bhotni",
+        "duration": "1hr 48min",
+        "ratting": 8.0
+      },
+      {
+        "id": "horror10",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Ugly-Stepsister-2025.webp",
+        "movieTitle": "Ugly Stepsister",
+        "duration": "2hr 10min",
+        "ratting": 7.9
+      },
+      {
+        "id": "horror11",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Demonte-Coloney-2-20224.webp",
+        "movieTitle": "Demonte Colony 2",
+        "duration": "1hr 35min",
+        "ratting": 8.2
+      },
+      {
+        "id": "horror12",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Bayou-2025.webp",
+        "movieTitle": "The Bayou",
+        "duration": "2hr 25min",
+        "ratting": 7.6
+      },
+      {
+        "id": "horror13",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Heretic-2024.webp",
+        "movieTitle": "Heretic",
+        "duration": "1hr 42min",
+        "ratting": 8.5
+      },
+      {
+        "id": "horror14",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Monkey-20225.webp",
+        "movieTitle": "The Monkey",
+        "duration": "1hr 47min",
+        "ratting": 7.4
+      },
+      {
+        "id": "horror15",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Drop-2025.webp",
+        "movieTitle": "Drop",
+        "duration": "1hr 58min",
+        "ratting": 8.3
+      },
+      {
+        "id": "horror16",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Ash-2025.webp",
+        "movieTitle": "Ash",
+        "duration": "1hr 30min",
+        "ratting": 7.8
+      },
+      {
+        "id": "horror17",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-I-saw-the-TV-Glow-2024.webp",
+        "movieTitle": "TV Glow",
+        "duration": "1hr 53min",
+        "ratting": 8.1
+      },
+      {
+        "id": "horror18",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Little-Marmaid-2024.webp",
+        "movieTitle": "Little Mermaid",
+        "duration": "1hr 46min",
+        "ratting": 7.5
+      },
+      {
+        "id": "horror19",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Peter-Pans-2025.webp",
+        "movieTitle": "Peter Pan",
+        "duration": "2hr 8min",
+        "ratting": 8.6
+      },
+      {
+        "id": "horror20",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Chabak-Night-2023.webp",
+        "movieTitle": "Chabak Night",
+        "duration": "1hr 37min",
+        "ratting": 7.9
+      },
+      {
+        "id": "horror21",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Chhor-2-2025.webp",
+        "movieTitle": "Chhor 2",
+        "duration": "1hr 44min",
+        "ratting": 8.0
+      },
+      {
+        "id": "horror22",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Terrifier-2-2022.webp",
+        "movieTitle": "Terrifier 2",
+        "duration": "2hr 12min",
+        "ratting": 7.7
+      },
+      {
+        "id": "horror23",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-River-of-Blod-2024.webp",
+        "movieTitle": "River of Blood",
+        "duration": "1hr 51min",
+        "ratting": 8.2
+      },
+      {
+        "id": "horror24",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Terifier-3-2024.webp",
+        "movieTitle": "Terrifier 3",
+        "duration": "1hr 39min",
+        "ratting": 7.6
+      },
+      {
+        "id": "horror25",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Killers-2014.webp",
+        "movieTitle": "Killers",
+        "duration": "2hr 18min",
+        "ratting": 8.4
+      },
+      {
+        "id": "horror26",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Sabdham-2025.webp",
+        "movieTitle": "Sabdham",
+        "duration": "2hr 22min",
+        "ratting": 7.8
+      },
+      {
+        "id": "horror27",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-A-Tale-of-Two-Sister-2003.webp",
+        "movieTitle": "Two Sisters",
+        "duration": "1hr 43min",
+        "ratting": 8.5
+      },
+      {
+        "id": "horror28",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-In-A-Violent-nature-2024.webp",
+        "movieTitle": "Violent Nature",
+        "duration": "2hr 0min",
+        "ratting": 7.4
+      },
+      {
+        "id": "horror29",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Nosferatu-2024.webp",
+        "movieTitle": "Nosferatu",
+        "duration": "1hr 49min",
+        "ratting": 8.3
+      },
+      {
+        "id": "horror30",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Goldsmith-2022.webp",
+        "movieTitle": "The Goldsmith",
+        "duration": "2hr 14min",
+        "ratting": 7.9
+      },
+      {
+        "id": "horror31",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Door-Lock-2018.webp",
+        "movieTitle": "Door Lock",
+        "duration": "1hr 56min",
+        "ratting": 8.0
+      },
+      {
+        "id": "horror32",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Grafted-2025.webp",
+        "movieTitle": "Grafted",
+        "duration": "2hr 11min",
+        "ratting": 7.6
+      },
+      {
+        "id": "horror33",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Azrael-2024.webp",
+        "movieTitle": "Azrael",
+        "duration": "1hr 43min",
+        "ratting": 8.2
+      },
+      {
+        "id": "horror34",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Stakelander-2016.webp",
+        "movieTitle": "Stakelander",
+        "duration": "2hr 7min",
+        "ratting": 7.8
+      },
+      {
+        "id": "horror35",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Grizzly-Rage-2007.webp",
+        "movieTitle": "Grizzly Rage",
+        "duration": "2hr 16min",
+        "ratting": 8.4
+      }
+    ],
+
+    "romantic": [
+      {
+        "id": "romantic1",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Yudddhakaaandaa-chapter-2-2025.webp",
+        "movieTitle": "Yudhakaanda 2",
+        "duration": "2hr 10min",
+        "ratting": 8.4
+      },
+      {
+        "id": "romantic2",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/mark-antony-2023-hindi-tamil-hdrip-720p-480p-1080p.webp",
+        "movieTitle": "Mark Antony",
+        "duration": "1hr 55min",
+        "ratting": 7.8
+      },
+      {
+        "id": "romantic3",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Thug-Life-2025.webp",
+        "movieTitle": "Thug Life",
+        "duration": "2hr 5min",
+        "ratting": 8.6
+      },
+      {
+        "id": "romantic4",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Bubblegun-22023.webp",
+        "movieTitle": "Bubblegun",
+        "duration": "1hr 45min",
+        "ratting": 7.5
+      },
+      {
+        "id": "romantic5",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-All-the-best-pandya-2025.webp",
+        "movieTitle": "Pandya's Best",
+        "duration": "2hr 0min",
+        "ratting": 8.1
+      },
+      {
+        "id": "romantic6",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Enccounter-2018.webp",
+        "movieTitle": "Encounter",
+        "duration": "1hr 50min",
+        "ratting": 7.7
+      },
+      {
+        "id": "romantic7",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Parallel-2024.webp",
+        "movieTitle": "Parallel",
+        "duration": "2hr 15min",
+        "ratting": 8.3
+      },
+      {
+        "id": "romantic8",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Maharashi-2019.webp",
+        "movieTitle": "Maharashi",
+        "duration": "1hr 40min",
+        "ratting": 7.4
+      },
+      {
+        "id": "romantic9",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Panchlait-2017.webp",
+        "movieTitle": "Panchlait",
+        "duration": "2hr 20min",
+        "ratting": 8.0
+      },
+      {
+        "id": "romantic10",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Sister-Midnight-2024.webp",
+        "movieTitle": "Sister Midnight",
+        "duration": "1hr 48min",
+        "ratting": 7.9
+      },
+      {
+        "id": "romantic11",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Jai-Gangaajal-2016.webp",
+        "movieTitle": "Jai Gangaajal",
+        "duration": "2hr 25min",
+        "ratting": 8.2
+      },
+      {
+        "id": "romantic12",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Six-Each-2025.webp",
+        "movieTitle": "Six Each",
+        "duration": "1hr 42min",
+        "ratting": 7.6
+      },
+      {
+        "id": "romantic13",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Zindagi-Zindabaad-2023.webp",
+        "movieTitle": "Zindagi Zindabaad",
+        "duration": "2hr 8min",
+        "ratting": 8.5
+      },
+      {
+        "id": "romantic14",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Winter-Spring-Sunner-2024.webp",
+        "movieTitle": "Winter Spring",
+        "duration": "1hr 47min",
+        "ratting": 7.3
+      },
+      {
+        "id": "romantic15",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Keshari-2-2025.webp",
+        "movieTitle": "Keshari 2",
+        "duration": "2hr 12min",
+        "ratting": 8.4
+      },
+      {
+        "id": "romantic16",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Jodi-2023.webp",
+        "movieTitle": "Jodi",
+        "duration": "1hr 35min",
+        "ratting": 7.8
+      },
+      {
+        "id": "romantic17",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-My-Old-Ass-2024.webp",
+        "movieTitle": "My Old Ass",
+        "duration": "1hr 53min",
+        "ratting": 8.1
+      },
+      {
+        "id": "romantic18",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Alappuzha-2025.webp",
+        "movieTitle": "Alappuzha",
+        "duration": "1hr 46min",
+        "ratting": 7.5
+      },
+      {
+        "id": "romantic19",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Direnis-Karatay-2018.webp",
+        "movieTitle": "Direnis Karatay",
+        "duration": "2hr 0min",
+        "ratting": 8.3
+      },
+      {
+        "id": "romantic20",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Kerebete-2025.webp",
+        "movieTitle": "Kerebete",
+        "duration": "1hr 37min",
+        "ratting": 7.9
+      },
+      {
+        "id": "romantic21",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Housefull-5B-2025.webp",
+        "movieTitle": "Housefull 5B",
+        "duration": "2hr 18min",
+        "ratting": 8.0
+      },
+      {
+        "id": "romantic22",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Housefull-20255.webp",
+        "movieTitle": "Housefull",
+        "duration": "2hr 14min",
+        "ratting": 7.7
+      },
+      {
+        "id": "romantic23",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-STRAW-2025.webp",
+        "movieTitle": "STRAW",
+        "duration": "1hr 49min",
+        "ratting": 8.2
+      },
+      {
+        "id": "romantic24",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-K-O-2025.webp",
+        "movieTitle": "K.O.",
+        "duration": "1hr 41min",
+        "ratting": 7.6
+      },
+      {
+        "id": "romantic25",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Bengal-1947.webp",
+        "movieTitle": "Bengal 1947",
+        "duration": "2hr 6min",
+        "ratting": 8.5
+      },
+      {
+        "id": "romantic26",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Last-wish-AKA-son-Dilek-2025.webp",
+        "movieTitle": "Last Wish",
+        "duration": "1hr 44min",
+        "ratting": 7.8
+      },
+      {
+        "id": "romantic27",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Ground-Zero-220025.webp",
+        "movieTitle": "Ground Zero",
+        "duration": "2hr 9min",
+        "ratting": 8.1
+      },
+      {
+        "id": "romantic28",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Bhol-Chuk-Maaf-2025.webp",
+        "movieTitle": "Bhol Chuk Maaf",
+        "duration": "1hr 52min",
+        "ratting": 7.4
+      },
+      {
+        "id": "romantic29",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-High-Force-2024.webp",
+        "movieTitle": "High Force",
+        "duration": "2hr 3min",
+        "ratting": 8.3
+      },
+      {
+        "id": "romantic30",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/jaat-2025.webp",
+        "movieTitle": "Jaat",
+        "duration": "1hr 38min",
+        "ratting": 7.9
+      },
+      {
+        "id": "romantic31",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Ashgrove-2022.webp",
+        "movieTitle": "Ashgrove",
+        "duration": "1hr 56min",
+        "ratting": 8.0
+      },
+      {
+        "id": "romantic32",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Moderator-2022.webp",
+        "movieTitle": "Moderator",
+        "duration": "2hr 11min",
+        "ratting": 7.6
+      },
+      {
+        "id": "romantic33",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Stolen022025.webp",
+        "movieTitle": "Stolen",
+        "duration": "1hr 43min",
+        "ratting": 8.2
+      },
+      {
+        "id": "romantic34",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Conclave-2024.webp",
+        "movieTitle": "Conclave",
+        "duration": "2hr 7min",
+        "ratting": 7.8
+      },
+      {
+        "id": "romantic35",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Paru-Parvathya-2025.webp",
+        "movieTitle": "Paru Parvathya",
+        "duration": "2hr 16min",
+        "ratting": 8.4
+      }
+    ],
+
+    "thriller": [
+      {
+        "id": "thriller1",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Parallel-2024.webp",
+        "movieTitle": "Parallel",
+        "duration": "1hr 50min",
+        "ratting": 8.3
+      },
+      {
+        "id": "thriller2",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Karamsutra-2025.webp",
+        "movieTitle": "Karamsutra",
+        "duration": "2hr 5min",
+        "ratting": 7.8
+      },
+      {
+        "id": "thriller3",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Ballerina-20225.webp",
+        "movieTitle": "Ballerina",
+        "duration": "1hr 45min",
+        "ratting": 8.6
+      },
+      {
+        "id": "thriller4",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Eleven-2025.webp",
+        "movieTitle": "Eleven",
+        "duration": "2hr 0min",
+        "ratting": 7.5
+      },
+      {
+        "id": "thriller5",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Prosecutor-2024.webp",
+        "movieTitle": "Prosecutor",
+        "duration": "1hr 55min",
+        "ratting": 8.1
+      },
+      {
+        "id": "thriller6",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Mokshapatam-2025.webp",
+        "movieTitle": "Mokshapatam",
+        "duration": "2hr 15min",
+        "ratting": 7.7
+      },
+      {
+        "id": "thriller7",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Bloody-Marry-20222.webp",
+        "movieTitle": "Bloody Marry",
+        "duration": "1hr 40min",
+        "ratting": 8.4
+      },
+      {
+        "id": "thriller8",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-STRAW-2025.webp",
+        "movieTitle": "STRAW",
+        "duration": "2hr 20min",
+        "ratting": 7.3
+      },
+      {
+        "id": "thriller9",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Ground-Zero-220025.webp",
+        "movieTitle": "Ground Zero",
+        "duration": "1hr 48min",
+        "ratting": 8.0
+      },
+      {
+        "id": "thriller10",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Accountant-2-2025.webp",
+        "movieTitle": "Accountant 2",
+        "duration": "2hr 10min",
+        "ratting": 7.9
+      },
+      {
+        "id": "thriller11",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-I-S-S-2023.webp",
+        "movieTitle": "I.S.S.",
+        "duration": "1hr 35min",
+        "ratting": 8.2
+      },
+      {
+        "id": "thriller12",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/jaat-2025.webp",
+        "movieTitle": "Jaat",
+        "duration": "2hr 25min",
+        "ratting": 7.6
+      },
+      {
+        "id": "thriller13",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Moderator-2022.webp",
+        "movieTitle": "Moderator",
+        "duration": "1hr 42min",
+        "ratting": 8.5
+      },
+      {
+        "id": "thriller14",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Mis-Buther-2017.webp",
+        "movieTitle": "Mis Buther",
+        "duration": "1hr 47min",
+        "ratting": 7.4
+      },
+      {
+        "id": "thriller15",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/the-killer-2024-hindi-dual-audio-hdrip-1080p-720p-480p.webp",
+        "movieTitle": "The Killer",
+        "duration": "1hr 58min",
+        "ratting": 8.3
+      },
+      {
+        "id": "thriller16",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-A-Aindow-2025.webp",
+        "movieTitle": "A Window",
+        "duration": "1hr 30min",
+        "ratting": 7.8
+      },
+      {
+        "id": "thriller17",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Graduation-Trip-2025.webp",
+        "movieTitle": "Graduation Trip",
+        "duration": "1hr 53min",
+        "ratting": 8.1
+      },
+      {
+        "id": "thriller18",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Thudram-2025.webp",
+        "movieTitle": "Thudram",
+        "duration": "1hr 46min",
+        "ratting": 7.2
+      },
+      {
+        "id": "thriller19",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Interrogation-2025.webp",
+        "movieTitle": "Interrogation",
+        "duration": "2hr 8min",
+        "ratting": 8.6
+      },
+      {
+        "id": "thriller20",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Last-Breath-20255.webp",
+        "movieTitle": "Last Breath",
+        "duration": "1hr 37min",
+        "ratting": 7.9
+      },
+      {
+        "id": "thriller21",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Sinners-220225.webp",
+        "movieTitle": "Sinners",
+        "duration": "1hr 44min",
+        "ratting": 8.0
+      },
+      {
+        "id": "thriller22",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/captain-america-brave-new-world-2025-hindi-dubbed-camrip-1080p--720p--480p.webp",
+        "movieTitle": "Captain America",
+        "duration": "2hr 12min",
+        "ratting": 8.4
+      },
+      {
+        "id": "thriller23",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Adharma-Kadhaigal-2024.webp",
+        "movieTitle": "Adharma Kadhaigal",
+        "duration": "1hr 51min",
+        "ratting": 7.7
+      },
+      {
+        "id": "thriller24",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Flight-Risk-2025.webp",
+        "movieTitle": "Flight Risk",
+        "duration": "1hr 39min",
+        "ratting": 8.2
+      },
+      {
+        "id": "thriller25",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Hit-The-Third-Case-2025.webp",
+        "movieTitle": "Hit: Third Case",
+        "duration": "2hr 18min",
+        "ratting": 7.5
+      },
+      {
+        "id": "thriller26",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-L2-Empuran-22025.webp",
+        "movieTitle": "L2 Empuran",
+        "duration": "2hr 22min",
+        "ratting": 8.5
+      },
+      {
+        "id": "thriller27",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Fear-Street-Prom-Queen-2025.webp",
+        "movieTitle": "Fear Street",
+        "duration": "1hr 43min",
+        "ratting": 7.8
+      },
+      {
+        "id": "thriller28",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Sed-of-the-sacred-fig-2024.webp",
+        "movieTitle": "Sacred Fig",
+        "duration": "2hr 0min",
+        "ratting": 8.3
+      },
+      {
+        "id": "thriller29",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Inheritance-2025.webp",
+        "movieTitle": "Inheritance",
+        "duration": "1hr 49min",
+        "ratting": 7.6
+      },
+      {
+        "id": "thriller30",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Raid-2-202255.webp",
+        "movieTitle": "Raid 2",
+        "duration": "2hr 14min",
+        "ratting": 8.1
+      },
+      {
+        "id": "thriller31",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-War-2019.webp",
+        "movieTitle": "War",
+        "duration": "2hr 34min",
+        "ratting": 7.9
+      },
+      {
+        "id": "thriller32",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Sikandar-20225.webp",
+        "movieTitle": "Sikandar",
+        "duration": "2hr 16min",
+        "ratting": 8.0
+      },
+      {
+        "id": "thriller33",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Yeh-Saalo-Aashiqui-2019.webp",
+        "movieTitle": "Yeh Aashiqui",
+        "duration": "2hr 6min",
+        "ratting": 7.4
+      },
+      {
+        "id": "thriller34",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Once-Upon-Spy-19800.webp",
+        "movieTitle": "Once Upon Spy",
+        "duration": "1hr 52min",
+        "ratting": 8.2
+      },
+      {
+        "id": "thriller35",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Mission-Impossible-The-F-R-2025.webp",
+        "movieTitle": "Mission Impossible",
+        "duration": "2hr 28min",
+        "ratting": 8.7
+      }
+    ],
+
+    "biography": [
+      {
+        "id": "biography1",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-titan-the-ocesn-Gate-submersible-Disaster-2025.webp"
+      },
+      {
+        "id": "biography2",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Air-Force-Elite-Thunderbirds-2025.webp"
+      },
+      {
+        "id": "biography3",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Pangolin-Kulus-journey-2025.webp"
+      },
+      {
+        "id": "biography4",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Con-Mum-2025.webp"
+      },
+      {
+        "id": "biography5",
+        "category": "fantasy",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Twister-Caught-in-the-storm-2025.webp"
+      },
+      {
+        "id": "biography6",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Chaos-the-manson-murders-2025.webp"
+      },
+      {
+        "id": "biography7",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Avicii-Im-Tim-2024.webp"
+      },
+      {
+        "id": "biography8",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Dont-Die-The-Man-Who-Wants-to-Live-Forever-2025.webp"
+      },
+      {
+        "id": "biography9",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/yo-yo-honey-singh-famous-2024-hindi-org-5-1-hdrip-720p-480p-1080p.webp"
+      },
+      {
+        "id": "biography10",
+        "category": "action",
+        "image": "https://vegamovies.tz/uploads/posts/covers/zero-se-restart-2024-hindi-cleaned-hq-hdtc-720p-480p-1080p.webp"
+      },
+      {
+        "id": "biography11",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/buy-now-the-shopping-conspiracy-2024-hindi-dual-audio-hdrip-1080p-720p-480p.webp"
+      },
+      {
+        "id": "biography12",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Raid-2-202255.webp"
+      },
+      {
+        "id": "biography13",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/sweet-bobby-my-catfish-nightmare-2024-hindi-dual-audio-hdrip-1080p-720p-480p.webp"
+      },
+      {
+        "id": "biography14",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/the-menendez-brothers-2024-hindi-dual-audio-hdrip-1080p-720p-480p.webp"
+      },
+      {
+        "id": "biography15",
+        "category": "sci-fi",
+        "image": "https://vegamovies.tz/uploads/posts/covers/apollo-13-survival-2024-hindi-dual-audio-hdrip-1080p-720p-480p.webp"
+      },
+      {
+        "id": "biography16",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/modern-masters-ss-rajamouli-2024-hindi-hdrip-720p-480p-1080p.webp"
+      },
+      {
+        "id": "biography17",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/how-to-rob-a-bank-2024-hindi-dual-audio-hdrip-1080p-720p-480p.webp"
+      },
+      {
+        "id": "biography18",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/what-jennifer-did-2024-dual-audio-hindi-hdrip-720p-480p.webp"
+      },
+      {
+        "id": "biography19",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/the-antisocial-network-memes-to-mayhem-2024-hindi-dual-audio-hdrip-1080p-720p-480p.webp"
+      },
+      {
+        "id": "biography20",
+        "category": "horror",
+        "image": "https://vegamovies.tz/uploads/posts/covers/to-kill-a-tiger-2024-hindi-hdrip-720p-480p.webp"
+      },
+      {
+        "id": "biography21",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/bitconned-2024-hindi-dual-audio-hdrip-720p-480p.webp"
+      },
+      {
+        "id": "biography22",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/curry-cyanide-the-jolly-joseph-case-2023-hindi-malayalam-dual-audio-uncut-hdrip-720p-480p.webp"
+      },
+      {
+        "id": "biography23",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/the-thief-collector-2022-hindi-dual-audio-hdrip-720p-480p.webp"
+      },
+      {
+        "id": "biography24",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/the-devil-on-trial-2023-hindi-dual-audio-hdrip-720p-480p.webp"
+      },
+      {
+        "id": "biography25",
+        "category": "romantic",
+        "image": "https://vegamovies.tz/uploads/posts/covers/poisoned-the-dirty-truth-about-your-food-2023-hindi-dual-audio-hdrip-720p-480p.webp"
+      },
+      {
+        "id": "biography26",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/unknown-cosmic-time-machine-2023-hindi-dual-audio-hdrip-720p-480p.webp"
+      },
+      {
+        "id": "biography27",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/inside-job-2010-hindi-dual-audio-hdrip-720p-480p.webp"
+      },
+      {
+        "id": "biography28",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/the-deepest-breath-2023-hindi-dual-audio-hdrip-720p-480p.webp"
+      },
+      {
+        "id": "biography29",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/unknown-killer-robots-2023-hindi-dual-audio-hdrip-720p-480p.webp"
+      },
+      {
+        "id": "biography30",
+        "category": "thriller",
+        "image": "https://vegamovies.tz/uploads/posts/covers/72-hoorain-2023-hindi-dvdscr-720p-480p.webp"
+      },
+      {
+        "id": "biography31",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/unknown-the-lost-pyramid-2023-hindi-dual-audio-hdrip-720p-480p.webp"
+      },
+      {
+        "id": "biography32",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/2023-04/1682598090_dancing-on-the-grave-2023-season-1.jpg"
+      },
+      {
+        "id": "biography33",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/waco-american-apocalypse-2023-season-1-dual-audio-hindi-hdrip-720p-480p.webp"
+      },
+      {
+        "id": "biography34",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/caught-out-2023-hindi-dual-audio-hdrip-720p-480p.webp"
+      },
+      {
+        "id": "biography35",
+        "category": "biography",
+        "image": "https://vegamovies.tz/uploads/posts/covers/the-elephant-whisperers-2022-hindi-dual-audio-hdrip-720p-480p-2.webp"
+      }
+    ]
+  },
+  "categories": [
+    { "id": "all", "text": "All" },
+    { "id": "action", "text": "Action" },
+    { "id": "sci-fi", "text": "Sci-fi" },
+    { "id": "horror", "text": "Horror" },
+    { "id": "romantic", "text": "Romantic" },
+    { "id": "fantasy", "text": "Fantasy" },
+    { "id": "thriller", "text": "Thriller" },
+    { "id": "biography", "text": "Biography" }
+  ],
+  "navList": [
+    {
+      "id": "navOne",
+      "text": "Home",
+      "path": "/"
+    },
+    {
+      "id": "navTwo",
+      "text": "Video",
+      "path": "/video"
+    },
+    {
+      "id": "navThree",
+      "text": "Save",
+      "path": "/save"
+    }
+  ],
+
+  "sliderImage": [
+    {
+      "id": "slide1",
+      "image": "https://m.media-amazon.com/images/I/914iGO+xx0L._AC_UL480_FMwebp_QL65_.jpg",
+      "movieTitle": "Avengers: Infinity War",
+      "duration": "2hrs 29min",
+      "ratting": 8.4
+    },
+    {
+      "id": "slide2",
+      "image": "https://m.media-amazon.com/images/I/91RGNFdfouL._AC_UL480_FMwebp_QL65_.jpg",
+      "movieTitle": "Avengers: Endgame",
+      "duration": "3hrs 1min",
+      "ratting": 8.4
+    },
+    {
+      "id": "slide3",
+      "image": "https://m.media-amazon.com/images/I/81aCWrp5deL._AC_UL480_FMwebp_QL65_.jpg",
+      "movieTitle": "Spider-Man: No Way Home",
+      "duration": "2hrs 28min",
+      "ratting": 8.2
+    },
+    {
+      "id": "slide4",
+      "image": "https://m.media-amazon.com/images/I/81WHLV-X2jL._AC_UL480_FMwebp_QL65_.jpg",
+      "movieTitle": "Captain America: Civil War",
+      "duration": "2hrs 27min",
+      "ratting": 7.8
+    },
+    {
+      "id": "slide5",
+      "image": "https://cdn.pixabay.com/photo/2012/10/26/02/12/actor-63082_1280.jpg",
+      "movieTitle": "The Dark Knight",
+      "duration": "2hrs 32min",
+      "ratting": 9.0
+    },
+    {
+      "id": "slide6",
+      "image": "https://vegamovies.tz/uploads/posts/covers/Poster-13-Hours-the-secret-soldiers-2016.webp",
+      "movieTitle": "13 Hours: The Secret Soldiers",
+      "duration": "2hrs 24min",
+      "ratting": 7.3
+    },
+    {
+      "id": "slide7",
+      "image": "https://vegamovies.tz/uploads/posts/covers/the-arctic-convoy-2023-hindi-dual-audio-hdrip-1080p-720p-480p.webp",
+      "movieTitle": "The Arctic Convoy",
+      "duration": "1hrs 48min",
+      "ratting": 6.8
+    },
+    {
+      "id": "slide8",
+      "image": "https://vegamovies.tz/uploads/posts/covers/creation-of-the-gods-i-kingdom-of-storms-2023-hindi-dual-audio-hdrip-1080p-720p-480p.webp",
+      "movieTitle": "Creation of the Gods I",
+      "duration": "2hrs 28min",
+      "ratting": 7.0
+    },
+    {
+      "id": "slide9",
+      "image": "https://m.media-amazon.com/images/I/81WHLV-X2jL._AC_UL480_FMwebp_QL65_.jpg",
+      "movieTitle": "Thor: Ragnarok",
+      "duration": "2hrs 10min",
+      "ratting": 7.9
+    }
+  ],
+
+  "videoDetails": {
+    "movieTilte": "Infinity War",
+    "ratting": 8.4,
+    "save": false,
+    "like": false,
+
+    "cast": [
+      {
+        "id": "cast2",
+        "name": "Akshay Kumar",
+        "image": "https://image.tmdb.org/t/p/original/1vRHSuQtLEUAXqKO3l1mjUxd4j4.jpg"
+      },
+
+      {
+        "id": "cast2",
+        "name": "Akshay Kumar",
+        "image": "https://image.tmdb.org/t/p/original/1vRHSuQtLEUAXqKO3l1mjUxd4j4.jpg"
+      },
+      {
+        "id": "cast3",
+        "name": "Kashinath",
+        "image": "https://image.tmdb.org/t/p/original/1vRHSuQtLEUAXqKO3l1mjUxd4j4.jpg"
+      },
+      {
+        "id": "cast4",
+        "name": "Amita Bachan",
+        "image": "https://image.tmdb.org/t/p/original/peEPLuiLp9M0UwAHPUEFBd8Q7SQ.jpg"
+      },
+      {
+        "id": "cast5",
+        "name": "Rajendar kapoor",
+        "image": "https://image.tmdb.org/t/p/original/jp1phhrj8lT4NWQpztqi0FmM94i.jpg"
+      },
+      {
+        "id": "cast6",
+        "name": "Irfan Khan",
+        "image": "https://image.tmdb.org/t/p/original/83jDgHAPf4hPCFoF1OTF08xkhd6.jpg"
+      },
+      {
+        "id": "cast8",
+        "name": "Ronldo",
+        "image": "https://image.tmdb.org/t/p/original/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+      },
+      {
+        "id": "cast9",
+        "name": "puri",
+        "image": "https://image.tmdb.org/t/p/original/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+      },
+
+      {
+        "id": "cast10",
+        "name": "golu",
+        "image": "https://image.tmdb.org/t/p/original/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+      }
+    ],
+
+    "tabs": [
+      {
+        "id": "tab1",
+        "tabName": "Action",
+        "tabDescreption": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+      },
+      {
+        "id": "tab2",
+        "tabName": "Drama",
+        "tabDescreption": "In a small town torn by secrets, a family struggles to hold itself together as old wounds resurface and hidden truths threaten to change everything they thought they knew about each other."
+      },
+      {
+        "id": "tab3",
+        "tabName": "Fantasy",
+        "tabDescreption": "In a land where dragons rule the skies and magic flows through ancient ruins, a young warrior discovers a prophecy that could unite the kingdoms—or destroy them forever."
+      }
+    ]
+  },
+
+  "biography": [
+    {
+      "id": "biography1",
+      "category": "fantasy",
+      "image": "https://vegamovies.tz/uploads/posts/covers/Poster-titan-the-ocesn-Gate-submersible-Disaster-2025.webp"
+    },
+    {
+      "id": "biography2",
+      "category": "fantasy",
+      "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Air-Force-Elite-Thunderbirds-2025.webp"
+    },
+    {
+      "id": "biography3",
+      "category": "fantasy",
+      "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Pangolin-Kulus-journey-2025.webp"
+    },
+    {
+      "id": "biography4",
+      "category": "fantasy",
+      "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Con-Mum-2025.webp"
+    },
+    {
+      "id": "biography5",
+      "category": "fantasy",
+      "image": "https://vegamovies.tz/uploads/posts/covers/Poster-The-Twister-Caught-in-the-storm-2025.webp"
+    },
+    {
+      "id": "biography6",
+      "category": "action",
+      "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Chaos-the-manson-murders-2025.webp"
+    },
+    {
+      "id": "biography7",
+      "category": "action",
+      "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Avicii-Im-Tim-2024.webp"
+    },
+    {
+      "id": "biography8",
+      "category": "action",
+      "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Dont-Die-The-Man-Who-Wants-to-Live-Forever-2025.webp"
+    },
+    {
+      "id": "biography9",
+      "category": "action",
+      "image": "https://vegamovies.tz/uploads/posts/covers/yo-yo-honey-singh-famous-2024-hindi-org-5-1-hdrip-720p-480p-1080p.webp"
+    },
+    {
+      "id": "biography10",
+      "category": "action",
+      "image": "https://vegamovies.tz/uploads/posts/covers/zero-se-restart-2024-hindi-cleaned-hq-hdtc-720p-480p-1080p.webp"
+    },
+    {
+      "id": "biography11",
+      "category": "sci-fi",
+      "image": "https://vegamovies.tz/uploads/posts/covers/buy-now-the-shopping-conspiracy-2024-hindi-dual-audio-hdrip-1080p-720p-480p.webp"
+    },
+    {
+      "id": "biography12",
+      "category": "sci-fi",
+      "image": "https://vegamovies.tz/uploads/posts/covers/Poster-Raid-2-202255.webp"
+    },
+    {
+      "id": "biography13",
+      "category": "sci-fi",
+      "image": "https://vegamovies.tz/uploads/posts/covers/sweet-bobby-my-catfish-nightmare-2024-hindi-dual-audio-hdrip-1080p-720p-480p.webp"
+    },
+    {
+      "id": "biography14",
+      "category": "sci-fi",
+      "image": "https://vegamovies.tz/uploads/posts/covers/the-menendez-brothers-2024-hindi-dual-audio-hdrip-1080p-720p-480p.webp"
+    },
+    {
+      "id": "biography15",
+      "category": "sci-fi",
+      "image": "https://vegamovies.tz/uploads/posts/covers/apollo-13-survival-2024-hindi-dual-audio-hdrip-1080p-720p-480p.webp"
+    },
+    {
+      "id": "biography16",
+      "category": "horror",
+      "image": "https://vegamovies.tz/uploads/posts/covers/modern-masters-ss-rajamouli-2024-hindi-hdrip-720p-480p-1080p.webp"
+    },
+    {
+      "id": "biography17",
+      "category": "horror",
+      "image": "https://vegamovies.tz/uploads/posts/covers/how-to-rob-a-bank-2024-hindi-dual-audio-hdrip-1080p-720p-480p.webp"
+    },
+    {
+      "id": "biography18",
+      "category": "horror",
+      "image": "https://vegamovies.tz/uploads/posts/covers/what-jennifer-did-2024-dual-audio-hindi-hdrip-720p-480p.webp"
+    },
+    {
+      "id": "biography19",
+      "category": "horror",
+      "image": "https://vegamovies.tz/uploads/posts/covers/the-antisocial-network-memes-to-mayhem-2024-hindi-dual-audio-hdrip-1080p-720p-480p.webp"
+    },
+    {
+      "id": "biography20",
+      "category": "horror",
+      "image": "https://vegamovies.tz/uploads/posts/covers/to-kill-a-tiger-2024-hindi-hdrip-720p-480p.webp"
+    },
+    {
+      "id": "biography21",
+      "category": "romantic",
+      "image": "https://vegamovies.tz/uploads/posts/covers/bitconned-2024-hindi-dual-audio-hdrip-720p-480p.webp"
+    },
+    {
+      "id": "biography22",
+      "category": "romantic",
+      "image": "https://vegamovies.tz/uploads/posts/covers/curry-cyanide-the-jolly-joseph-case-2023-hindi-malayalam-dual-audio-uncut-hdrip-720p-480p.webp"
+    },
+    {
+      "id": "biography23",
+      "category": "romantic",
+      "image": "https://vegamovies.tz/uploads/posts/covers/the-thief-collector-2022-hindi-dual-audio-hdrip-720p-480p.webp"
+    },
+    {
+      "id": "biography24",
+      "category": "romantic",
+      "image": "https://vegamovies.tz/uploads/posts/covers/the-devil-on-trial-2023-hindi-dual-audio-hdrip-720p-480p.webp"
+    },
+    {
+      "id": "biography25",
+      "category": "romantic",
+      "image": "https://vegamovies.tz/uploads/posts/covers/poisoned-the-dirty-truth-about-your-food-2023-hindi-dual-audio-hdrip-720p-480p.webp"
+    },
+    {
+      "id": "biography26",
+      "category": "thriller",
+      "image": "https://vegamovies.tz/uploads/posts/covers/unknown-cosmic-time-machine-2023-hindi-dual-audio-hdrip-720p-480p.webp"
+    },
+    {
+      "id": "biography27",
+      "category": "thriller",
+      "image": "https://vegamovies.tz/uploads/posts/covers/inside-job-2010-hindi-dual-audio-hdrip-720p-480p.webp"
+    },
+    {
+      "id": "biography28",
+      "category": "thriller",
+      "image": "https://vegamovies.tz/uploads/posts/covers/the-deepest-breath-2023-hindi-dual-audio-hdrip-720p-480p.webp"
+    },
+    {
+      "id": "biography29",
+      "category": "thriller",
+      "image": "https://vegamovies.tz/uploads/posts/covers/unknown-killer-robots-2023-hindi-dual-audio-hdrip-720p-480p.webp"
+    },
+    {
+      "id": "biography30",
+      "category": "thriller",
+      "image": "https://vegamovies.tz/uploads/posts/covers/72-hoorain-2023-hindi-dvdscr-720p-480p.webp"
+    },
+    {
+      "id": "biography31",
+      "category": "biography",
+      "image": "https://vegamovies.tz/uploads/posts/covers/unknown-the-lost-pyramid-2023-hindi-dual-audio-hdrip-720p-480p.webp"
+    },
+    {
+      "id": "biography32",
+      "category": "biography",
+      "image": "https://vegamovies.tz/uploads/posts/2023-04/1682598090_dancing-on-the-grave-2023-season-1.jpg"
+    },
+    {
+      "id": "biography33",
+      "category": "biography",
+      "image": "https://vegamovies.tz/uploads/posts/covers/waco-american-apocalypse-2023-season-1-dual-audio-hindi-hdrip-720p-480p.webp"
+    },
+    {
+      "id": "biography34",
+      "category": "biography",
+      "image": "https://vegamovies.tz/uploads/posts/covers/caught-out-2023-hindi-dual-audio-hdrip-720p-480p.webp"
+    },
+    {
+      "id": "biography35",
+      "category": "biography",
+      "image": "https://vegamovies.tz/uploads/posts/covers/the-elephant-whisperers-2022-hindi-dual-audio-hdrip-720p-480p-2.webp"
+    }
+  ]
+}
